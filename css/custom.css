@@ -2,3 +2,43 @@
   box-sizing: border-box; }
 
 /*insert custom css below*/
+body {
+ background-color: #cccccc;
+ padding: 0 1rem;
+font-family: 'Open Sans', sans-serif;
+font-size: 14px
+ 
+ 
+}
+
+
+
+h1 {
+	padding: 0 1rem;
+}
+h1 small{
+	font-size: .6em
+}
+
+ .box {
+    width: 400px;
+    padding: 20px 20px 35px 28px;
+    border: 1px solid #9c9c9c;
+    margin: 20px
+    }
+
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+    a:hover {
+    color: #ffffff;
+}
+
+.box .read-more {
+	text-decoration: underline;
+}
+
+
+
